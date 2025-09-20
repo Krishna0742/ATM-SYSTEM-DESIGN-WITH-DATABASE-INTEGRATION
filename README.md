@@ -67,6 +67,6 @@ Entry Point: main.c
 - Transaction history is maintained in CSV logs for record-keeping.
 
 =================================================
-5. Authors
+5. Authors 
 =================================================
-Developed as part of a Banking/ATM simulation project in C.
+ch.Anantha Krishna Nookaraju Developed as part of a Banking/ATM simulation project in C.
